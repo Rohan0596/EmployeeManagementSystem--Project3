@@ -1,1 +1,2 @@
 # EmployeeManagementSystem--Project3
+This project is an employee management system that allows the user to input details of multiple employees, such as their name, id, and salary. The program utilizes a custom Employee class to represent individual employees, and it handles exceptions for invalid name, id, and salary values using custom exception classes. Utilized Java's object-oriented features and custom exceptions to enhance code reliability and maintainability.
